@@ -1,5 +1,5 @@
 # Belal Fathy
-> Data Scientist & Software Developer passionate about AI solutions
+> AI Scientist & Software Engineer passionate about AI solutions
 
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/belal-fathy-b07608247)
